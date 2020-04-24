@@ -1,7 +1,11 @@
 coupleapi
 
 /api/bid/#заявки
+
+
 /api/forms/#анкеты
+
+
 /api/offers/#предложения
 
 что стоит знать:
